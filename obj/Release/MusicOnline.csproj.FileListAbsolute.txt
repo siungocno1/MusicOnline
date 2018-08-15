@@ -1,0 +1,15 @@
+C:\Users\pc\documents\visual studio 2015\Projects\MusicOnline\MusicOnline\bin\Release\MusicOnline.exe.config
+C:\Users\pc\documents\visual studio 2015\Projects\MusicOnline\MusicOnline\obj\Release\Interop.WMPLib.dll
+C:\Users\pc\documents\visual studio 2015\Projects\MusicOnline\MusicOnline\obj\Release\AxInterop.WMPLib.dll
+C:\Users\pc\documents\visual studio 2015\Projects\MusicOnline\MusicOnline\obj\Release\MusicOnline.csproj.ResolveComReference.cache
+C:\Users\pc\documents\visual studio 2015\Projects\MusicOnline\MusicOnline\bin\Release\MusicOnline.exe
+C:\Users\pc\documents\visual studio 2015\Projects\MusicOnline\MusicOnline\bin\Release\MusicOnline.pdb
+C:\Users\pc\documents\visual studio 2015\Projects\MusicOnline\MusicOnline\bin\Release\Interop.WMPLib.dll
+C:\Users\pc\documents\visual studio 2015\Projects\MusicOnline\MusicOnline\bin\Release\AxInterop.WMPLib.dll
+C:\Users\pc\documents\visual studio 2015\Projects\MusicOnline\MusicOnline\obj\Release\MusicOnline.BanQuyen.resources
+C:\Users\pc\documents\visual studio 2015\Projects\MusicOnline\MusicOnline\obj\Release\MusicOnline.Form1.resources
+C:\Users\pc\documents\visual studio 2015\Projects\MusicOnline\MusicOnline\obj\Release\MusicOnline.Properties.Resources.resources
+C:\Users\pc\documents\visual studio 2015\Projects\MusicOnline\MusicOnline\obj\Release\MusicOnline.csproj.GenerateResource.Cache
+C:\Users\pc\documents\visual studio 2015\Projects\MusicOnline\MusicOnline\obj\Release\MusicOnline.exe
+C:\Users\pc\documents\visual studio 2015\Projects\MusicOnline\MusicOnline\obj\Release\MusicOnline.pdb
+C:\Users\pc\documents\visual studio 2015\Projects\MusicOnline\MusicOnline\obj\Release\MusicOnline.csprojResolveAssemblyReference.cache
